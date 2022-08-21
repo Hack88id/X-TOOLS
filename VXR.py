@@ -1,3 +1,9 @@
+#jangan di ubah nanti eror
+#tinggal pake aja apasusah nya sih
+# Author Riko
+# Github hack88id
+# Wa 085783936913
+
 import os,time,random,rich
 from rich.panel import Panel as nel
 from rich import print as cetak
